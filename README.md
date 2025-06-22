@@ -1,1 +1,1 @@
-Portfolio of past data science projects.
+Portfolio of past data science and research projects.
